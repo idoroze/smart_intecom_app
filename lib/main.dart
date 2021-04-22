@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:testing/global%20.dart';
+import 'package:testing/global.dart';
 import 'package:testing/video.dart';
 
 void main() {
